@@ -17,7 +17,6 @@
 6) We will also implement credential authentication and also sign in with google and github.
 
 7) Cloudinary cdn : we use this for creating a cloud storage for images and videos.
-
 8) React  hook form : Using react hook form for client validation and handling.
 
 9) react toaster : to ensure smooth toast for server error
